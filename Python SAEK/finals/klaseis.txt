@@ -1,0 +1,4 @@
+10 oxi 20
+10 nai 30
+20 ela 19
+total = 69
